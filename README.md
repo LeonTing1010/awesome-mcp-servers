@@ -273,6 +273,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
 - **[TalentoHQ](https://hr.talentohq.com/mcp)** – Connect to the [TalentoHQ HR software](https://talentohq.com/features/mcp) via MCP. Transform your organization with the AI first HR software.
+- **[Tap](https://github.com/LeonTing1010/tap)** - Compile browser automation once with AI, replay forever at zero LLM tokens. MCP server runs deterministic `.tap.json` plans through your logged-in Chrome via extension; semantic fingerprint diff detects drift when sites change. 70+ open community taps.
 - **[Taskade](https://github.com/taskade/mcp)** – Connect to the [Taskade platform](https://www.taskade.com/) via MCP. Access tasks, projects, workflows, and AI agents in real-time through a unified workspace and API.
 - **[Taskeract](https://github.com/Acqusys/taskeract-mcp)** - Official Taskeract MCP Server for integrating your [Taskeract](https://www.taskeract.com/) project tasks and load the context of your tasks into your MCP enabled app.
 - **[Tavily](https://github.com/tavily-ai/tavily-mcp)** - Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)
